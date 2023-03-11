@@ -1,0 +1,22 @@
+{
+  "name": "taco-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uygurberkay/Taco-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uygurberkay/Taco-shop/issues"
+  },
+  "homepage": "https://github.com/uygurberkay/Taco-shop#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
