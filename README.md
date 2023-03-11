@@ -4,8 +4,9 @@ This project contains basic html, css and js example about Taco Shop
 <br>
 <strong> There is a live link from netlify: <strong>
 <br>
-  <a href='https://two-amigos-taco-shop.netlify.app/' target='_blank'> Taco Shop </a>
-
+  
+  <a href='https://two-amigos-taco-shop.netlify.app/' target="_blank"> Taco Shop </a>
+  
 <br>
 
 <hr>
